@@ -111,7 +111,7 @@
                     })
 				})
 				
-				dataLoader('./tpeGunCodeChanged.csv', function(){
+				dataLoader('./financialIndex.csv', function(){
 					dataClassifier(objectKeys.value, function(data, layers){
 						node = getNode(data, layers, treemapContainer)
 						treemapContainer.append(node)
