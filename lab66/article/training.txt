@@ -1,6 +1,6 @@
 h/資料說明
 t/From kaggle Adult Census Income dataset
-t/This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). 
+t/This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker. 
 t/目標：根據人口普查數據預測收入是否超過 5 萬美元/年
 
 h/資料欄位介紹與分析
